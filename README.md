@@ -4,8 +4,8 @@
 ### About
 -  **Working :** 
     - **Frontend**: TypeScript | React.js 
-    - **Backend**: Java | SpringBoot | TypeScript | NestJS
--  **Learning :** Python | Go | DDD	| TDD
+    - **Backend**: Java | SpringBoot | TypeScript | NestJS | Go
+-  **Learning :**  DDD	| TDD
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/juandaabril">
